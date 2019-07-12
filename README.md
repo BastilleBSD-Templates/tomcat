@@ -1,6 +1,8 @@
 # tomcat
 Bastille Template for Tomcat Jail
 
+ STATUS: Testing
+
 After installing Tomcat, you need to edit the 
 /usr/local/apache-tomcat-9.0/conf/tomcat-users.xml file to put in the correct users 
 for your installation.  The file looks like the following:
